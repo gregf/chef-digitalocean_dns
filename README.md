@@ -1,4 +1,4 @@
-# DiitalOcean_dns [![Build Status](https://secure.travis-ci.org/gregf/cookbook-digitalocean_dns.png)](http://travis-ci.org/gregf/cookbook-digitalocean_dns)
+# DigitalOcean_dns [![Build Status](https://secure.travis-ci.org/gregf/cookbook-digitalocean_dns.png)](http://travis-ci.org/gregf/cookbook-digitalocean_dns)
 
 ## Description
 
